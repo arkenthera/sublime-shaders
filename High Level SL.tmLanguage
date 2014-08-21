@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>hlsl</string>
+		<string>fx</string>
 	</array>
 	<key>name</key>
 	<string>High Level SL</string>
